@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="8dp">
+
+    <include layout="@layout/layout_post" />
+
+<!--    <com.spark.submitbutton.SubmitButton-->
+<!--        android:layout_below="@id/btnLoginL"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_marginTop="30dp"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:text="Submit"-->
+<!--        android:textColor="@color/gray"-->
+<!--        app:sub_btn_background="@color/white"-->
+<!--        app:sub_btn_duration="3000"-->
+<!--        app:sub_btn_line_color="@android:color/holo_green_light"-->
+<!--        app:sub_btn_ripple_color="@android:color/holo_blue_bright"-->
+<!--        app:sub_btn_tick_color="@color/white" />-->
+</android.support.v7.widget.CardView>
